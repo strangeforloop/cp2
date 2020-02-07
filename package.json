@@ -4,16 +4,16 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js" 
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strangeforloop/cp2.git"
+    "url": "https://github.com/strangeforloop/cp2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/strangeforloop/cp2/issues"
   },
-  "homepage": "https://github.com/strangeforloop/cp2#readme"
+  "homepage": "https://github.com/strangeforloop/cp2"
 }
